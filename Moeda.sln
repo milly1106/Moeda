@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moeda", "Moeda\Moeda.csproj", "{6F49E694-7FEE-4726-8577-6A0B71D9BDDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F49E694-7FEE-4726-8577-6A0B71D9BDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F49E694-7FEE-4726-8577-6A0B71D9BDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F49E694-7FEE-4726-8577-6A0B71D9BDDB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F49E694-7FEE-4726-8577-6A0B71D9BDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F49E694-7FEE-4726-8577-6A0B71D9BDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F49E694-7FEE-4726-8577-6A0B71D9BDDB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B1A7FDA-95AF-496D-B551-B7B5E9A52271}
+	EndGlobalSection
+EndGlobal
